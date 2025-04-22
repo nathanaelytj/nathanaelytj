@@ -12,7 +12,7 @@
 -   🌱 I’m currently enhancing existing platforms and developing innovative products for seamless user experiences.
 -   👯 I’m looking to collaborate on bespoke application creation.
 -   💬 Ask me about VueJS, Flutter, Laravel, and Python FastAPI.
--   📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/nathanaelytj/) or email at nathan@ntj125app.com.
+-   📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/nathanaelytj/) or email at nathanaelytj@ntjapps.com.
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: I led the creation of a Point of Sale (POS) business product and a personal Wedding Invitation app.
 
@@ -52,4 +52,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/nathanaelytj/)
 
-[![Email](https://img.shields.io/badge/Email-Send\_me\_a\_message-0077B5.svg)](mailto:nathan@ntj125app.com)
+[![Email](https://img.shields.io/badge/Email-Send\_me\_a\_message-0077B5.svg)](mailto:nathanaelytj@ntjapps.com)
