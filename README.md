@@ -8,7 +8,7 @@
 
 ###   A bit about me:
 
--   🔭 I’m currently focused on delivering impactful Web and Mobile Applications as the Founder of PT. NTJ Application Studio.
+-   🔭 I’m currently focused on delivering impactful Web and Mobile Applications as the Founder of PT NTJ Application Studio.
 -   🌱 I’m currently enhancing existing platforms and developing innovative products for seamless user experiences.
 -   👯 I’m looking to collaborate on bespoke application creation.
 -   💬 Ask me about VueJS, Flutter, Laravel, and Python FastAPI.
@@ -42,7 +42,7 @@
 
 ###   Featured Projects:
 
--   **Point of Sale (POS) Application:** A business product developed at PT. NTJ Application Studio.
+-   **Point of Sale (POS) Application:** A business product developed at PT NTJ Application Studio.
 -   **Wedding Invitation App:** A personal project showcasing mobile development skills.
 -   **FINACC:** An additional financial system that supports and extends the capabilities of Oracle EBS, built with Laravel and Python FastAPI.
 
