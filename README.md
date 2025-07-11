@@ -14,7 +14,7 @@
 -   💬 Ask me about VueJS, Flutter, Laravel, and Python FastAPI.
 -   📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/nathanaelytj/) or email at nathanaelytj@ntjapps.com.
 -   😄 Pronouns: He/Him
--   ⚡ Fun fact: I led the creation of a Point of Sale (POS) business product and a personal Wedding Invitation app.
+-   ⚡ Fun fact: My journey into app development started with a curiosity to game.
 
 ---
 
@@ -40,6 +40,10 @@
 
 ###   Featured Projects:
 
+-   **BTC Waterpark:** Developed a comprehensive system for BTC Waterpark, enhancing their operations and user experience.
+-   **TiloPOS:** A robust Point of Sale (POS) solution designed to streamline business transactions and management.
+-   **ATSUMEDIA:** Created a dynamic platform for ATSUMEDIA, focusing on interactive features and seamless content delivery.
+-   **Keluarga Allah Church Ticketing System:** Implemented a custom ticketing system for Keluarga Allah Church, optimizing event management and attendance tracking.
 -   **Point of Sale (POS) Application:** A business product developed at PT NTJ Application Studio.
 -   **Wedding Invitation App:** A personal project showcasing mobile development skills.
 -   **FINACC:** An additional financial system that supports and extends the capabilities of Oracle EBS, built with Laravel and Python FastAPI.
