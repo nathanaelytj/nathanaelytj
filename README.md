@@ -8,7 +8,7 @@
 
 ###   A bit about me:
 
--   🔭 I’m currently focused on delivering impactful Web and Mobile Applications as the Founder of PT NTJ Application Studio.
+-   🔭 I’m currently focused on delivering impactful Web and Mobile Applications as the Founder of NTJ Application Studio.
 -   🌱 I’m currently enhancing existing platforms and developing innovative products for seamless user experiences.
 -   👯 I’m looking to collaborate on bespoke application creation.
 -   💬 Ask me about VueJS, Flutter, Laravel, and Python FastAPI.
@@ -41,7 +41,7 @@
 ###   Featured Projects:
 
 -   **Keluarga Allah Church Ticketing System:** Implemented a custom ticketing system for Keluarga Allah Church, optimizing event management and attendance tracking.
--   **Point of Sale (POS) Application:** A business product developed at PT NTJ Application Studio.
+-   **Point of Sale (POS) Application:** A business product developed at NTJ Application Studio.
 -   **Wedding Invitation App:** A personal project showcasing mobile development skills.
 -   **FINACC:** An additional financial system that supports and extends the capabilities of Oracle EBS, built with Laravel and Python FastAPI.
 -  **WhatsApp Integrated AI Solution:** AI-driven virtual agent integrated with WhatsApp for customer engagement and automation.
@@ -49,7 +49,7 @@
 -  **Keluarga Allah Church Youth & Teens Impact — Booking System:** Scheduling and booking system for events, meetings, and resources.
 -  **Keluarga Allah Church Youth & Teens Impact — Integrated WhatsApp Live Q&A System:** Real-time Q&A platform integrated with WhatsApp to support live events and interaction.
 
-For company work and more case studies, see PT NTJ Application Studio: https://www.ntjapps.com
+For company work and more case studies, see NTJ Application Studio: https://www.ntjapps.com
 
 ---
 
