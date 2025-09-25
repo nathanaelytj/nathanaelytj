@@ -12,7 +12,7 @@
 -   🌱 I’m currently enhancing existing platforms and developing innovative products for seamless user experiences.
 -   👯 I’m looking to collaborate on bespoke application creation.
 -   💬 Ask me about VueJS, Flutter, Laravel, and Python FastAPI.
--   📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/nathanaelytj/) or email at nathanaelytj@ntjapps.com.
+-   📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/nathanaelytj/) or email at nathanaelytj@ntj.co.id.
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: My journey into app development started with a curiosity to game.
 
@@ -49,7 +49,7 @@
 -  **Keluarga Allah Church Youth & Teens Impact — Booking System:** Scheduling and booking system for events, meetings, and resources.
 -  **Keluarga Allah Church Youth & Teens Impact — Integrated WhatsApp Live Q&A System:** Real-time Q&A platform integrated with WhatsApp to support live events and interaction.
 
-For company work and more case studies, see NTJ Application Studio: https://www.ntjapps.com
+For company work and more case studies, see NTJ Application Studio: https://www.ntj.co.id
 
 ---
 
@@ -57,4 +57,4 @@ For company work and more case studies, see NTJ Application Studio: https://www.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/nathanaelytj/)
 
-[![Email](https://img.shields.io/badge/Email-Send\_me\_a\_message-0077B5.svg)](mailto:nathanaelytj@ntjapps.com)
+[![Email](https://img.shields.io/badge/Email-Send\_me\_a\_message-0077B5.svg)](mailto:nathanaelytj@ntj.co.id)
