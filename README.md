@@ -42,7 +42,6 @@
 
 -   **Keluarga Allah Church Ticketing System:** Implemented a custom ticketing system for Keluarga Allah Church, optimizing event management and attendance tracking.
 -   **Point of Sale (POS) Application:** A business product developed at NTJ Application Studio.
--   **Wedding Invitation App:** A personal project showcasing mobile development skills.
 -   **FINACC:** An additional financial system that supports and extends the capabilities of Oracle EBS, built with Laravel and Python FastAPI.
 -  **WhatsApp Integrated AI Solution:** AI-driven virtual agent integrated with WhatsApp for customer engagement and automation.
 -  **Keluarga Allah Church Youth & Teens Impact — Survey System:** Platform for collecting feedback and impact metrics from youth programs.
