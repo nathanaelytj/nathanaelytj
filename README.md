@@ -7,9 +7,9 @@
 
 ###   A bit about me:
 
-- 🔭 Founder & CEO of **PT NTJ Application Studio** — building enterprise-grade software for SMEs and enterprises across Indonesia.
+- 🔭 Founder & Director of **PT NTJ Application Studio** — building enterprise-grade software for SMEs and private companies across Indonesia. Systems NTJ has built since 2023 serve more than 30,000 end users across tourism, retail, faith and F&B organisations.
 - 🌱 Currently focused on productizing NTJ's core solutions into scalable SaaS modules for the Indonesian market.
-- 💼 Verified **Meta Tech Provider** — building WhatsApp automation and AI virtual agents for real business volumes.
+- 💼 NTJ is a **Verified Meta Tech Provider** and an **Odoo Partner** — I build WhatsApp automation, AI virtual agents and Odoo migrations.
 - 👯 Open to collaborating on web apps, mobile apps, and WhatsApp automation projects.
 - 💬 Ask me about Laravel, Vue.js, Go, Flutter, React Native, and agentic AI workflows.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/nathanaelytj/) or [nathanaelytj@ntj.co.id](mailto:nathanaelytj@ntj.co.id)
@@ -36,11 +36,12 @@
 
 ###   Featured Projects:
 
-- **Venue Ticketing & Event Management** — Complete ticketing and event management platform for water tourism and entertainment venues, handling ticket sales, check-ins, and capacity management.
-- **Integrated POS & Inventory Ecosystem** — Full-featured Point-of-Sale solution for retail operations across multiple locations with real-time sync and reconciliation.
-- **WhatsApp Integrated AI Solution** — AI-driven virtual agent integrated with WhatsApp Business Platform for customer engagement and automation at scale.
+- **WhatsApp Multi-Agent Inbox** (NTJ, for Gereja Keluarga Allah) — Meta Cloud API integration with a 12-agent inbox, automated routing and CRM sync.
+- **Odoo v15 → v19 Migration** (NTJ, subcontract) — migration with full custom code replacement for an Indonesian membership organisation.
+- **Multi-Outlet POS** (built by NTJ as development partner to LINJS) — web POS and back-office for a tourism company, stock sync across 6 outlets.
+- **Venue Ticketing & Event Management** (NTJ) — ticketing and QR check-in for water tourism and entertainment venues.
 - **FINACC** — Financial system extending Oracle EBS capabilities, built with Laravel and Python.
-- **Keluarga Allah Church — Youth & Teens Impact Suite** — Survey, booking, and WhatsApp Live Q&A systems supporting youth programs and live events.
+- **Community Operations Suite** (NTJ, for Gereja Keluarga Allah) — event ticketing with QR check-in, tour booking, WhatsApp Live Q&A, invitations and impact survey.
 
 > For company work and full case studies → [www.ntj.co.id](https://www.ntj.co.id)
 
