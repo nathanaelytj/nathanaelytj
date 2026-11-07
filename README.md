@@ -40,7 +40,6 @@
 - **Odoo v15 → v19 Migration** (NTJ, subcontract) — migration with full custom code replacement for an Indonesian membership organisation.
 - **Multi-Outlet POS** (built by NTJ as development partner to LINJS) — web POS and back-office for a tourism company, stock sync across 6 outlets.
 - **Venue Ticketing & Event Management** (NTJ) — ticketing and QR check-in for water tourism and entertainment venues.
-- **FINACC** — Financial system extending Oracle EBS capabilities, built with Laravel and Python.
 - **Community Operations Suite** (NTJ, for Gereja Keluarga Allah) — event ticketing with QR check-in, tour booking, WhatsApp Live Q&A, invitations and impact survey.
 
 > For company work and full case studies → [www.ntj.co.id](https://www.ntj.co.id)
